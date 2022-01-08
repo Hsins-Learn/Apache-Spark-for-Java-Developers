@@ -1,0 +1,6 @@
+List<Row> inMemory = new ArrayList<Row>();
+inMemory.add(RowFactory.create("WARN", "2016-12-31 04:19:32"));
+inMemory.add(RowFactory.create("FATAL", "2016-12-31 03:22:34"));
+inMemory.add(RowFactory.create("WARN", "2016-12-31 03:21:21"));
+inMemory.add(RowFactory.create("INFO", "2015-4-21 14:32:21"));
+inMemory.add(RowFactory.create("FATAL","2015-4-21 19:23:20"));
